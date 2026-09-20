@@ -1,0 +1,9 @@
+User-agent: *
+Allow: /
+Disallow: /legal-acceptable-use
+Disallow: /legal-privacy
+Disallow: /legal-terms
+Disallow: /legal-refund
+Disallow: /report
+
+Sitemap: https://ai-clothes-remover.fun/sitemap.xml
