@@ -152,8 +152,8 @@ footer a:hover{color:#fff}
 
 .shot{position:relative;width:100%;aspect-ratio:1/1;border-radius:16px;overflow:hidden;box-shadow:var(--shadow);background:#EDEFF0}
 .shot img{width:100%;height:100%;object-fit:cover;display:block}
-.hero-img{width:100%;aspect-ratio:16/9;object-fit:cover;border-radius:20px;box-shadow:var(--shadow);margin:28px 0 0;display:block}
-.post-thumb{width:100%;aspect-ratio:16/10;object-fit:cover;border-radius:12px;margin-bottom:14px;display:block}
+.hero-img{width:100%;height:auto;aspect-ratio:16/9;object-fit:cover;border-radius:20px;box-shadow:var(--shadow);margin:28px 0 0;display:block}
+.post-thumb{width:100%;height:auto;aspect-ratio:16/10;object-fit:cover;border-radius:12px;margin-bottom:14px;display:block}
 .nav-links.open{display:flex;position:absolute;top:68px;left:0;right:0;flex-direction:column;gap:0;background:#fff;border-bottom:1px solid var(--line);padding:8px 24px 16px;z-index:60;box-shadow:0 12px 24px rgba(16,32,30,.08)}
 .nav-links.open a{padding:13px 0;border-bottom:1px solid var(--line);font-size:16px}
 .thumb-grid{display:grid;grid-template-columns:repeat(3,1fr);gap:20px}
